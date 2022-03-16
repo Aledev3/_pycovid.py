@@ -5,4 +5,4 @@ import os
 
 @_pycovid
 async def startpycovid(covid):
-   await _
+   await _pycovid.Send_Message(covid.cha.id, "ok")
