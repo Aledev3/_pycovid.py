@@ -3,4 +3,6 @@ from _pycovid import covid
 import os
 
 
-@pycovid
+@_pycovid
+async def startpycovid(covid):
+   await _
