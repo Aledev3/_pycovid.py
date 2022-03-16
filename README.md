@@ -1,7 +1,7 @@
 # _pycovid.py
 covid library
 
-## Version 0.0.2
+## Version [0.0.2](https://github.com/Aledev3/_pycovid.py/blob/main/Covid/version.py)
 
 
 # Install 
