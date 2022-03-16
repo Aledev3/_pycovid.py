@@ -1,4 +1,5 @@
-from _pycovid.py import def
+from _pycovid.py import covid
+from _pycovid import database
 
 
 @_pycovid
