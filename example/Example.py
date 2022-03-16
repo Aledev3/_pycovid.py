@@ -5,10 +5,13 @@ import os
 
 @_pycovid
 async def startpycovid(covid):
-   await _pycovid.Send_Message(covid.chat.id, "ok")
+   if covid.text == "start":
+      await _pycovid.Send_Message(covid.chat.id, "ok")
 
 
 
 
 #ok lol
+
+#fix code
 
