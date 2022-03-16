@@ -1,3 +1,5 @@
 import sqlite3
 
-def pycoviddb():
+def pycovid_db():
+
+
