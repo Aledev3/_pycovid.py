@@ -9,4 +9,6 @@ city = {
 }
 
 
+print(city)
+
 #Data json
